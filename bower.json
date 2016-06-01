@@ -1,7 +1,7 @@
 {
   "name": "material-iconfont",
   "author": "Material Design Authors",
-  "description": "Material Design icons iconfont by Google",
+  "description": "Material Design icons by Google",
   "main": "iconfont/material-icons.scss",
   "keywords": [
     "icons",
