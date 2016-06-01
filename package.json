@@ -1,0 +1,23 @@
+{
+  "name": "material-iconfont",
+  "version": "2.2.3",
+  "description": "Material Design icons iconfont by Google",
+  "main": "iconfont/material-icons.scss",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/luhuiguo/material-iconfont"
+  },
+  "keywords": [
+    "icons",
+    "material",
+    "material-design",
+    "google"
+    "iconfont"
+  ],
+  "author": "Material Design Authors",
+  "license": "CC-BY-4.0",
+  "bugs": {
+    "url": "https://github.com/luhuiguo/material-iconfont/issues"
+  },
+  "homepage": "https://github.com/luhuiguo/material-iconfont"
+}
