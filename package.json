@@ -5,7 +5,7 @@
   "main": "iconfont/material-icons.scss",
   "repository": {
     "type": "git",
-    "url": "https://github.com/luhuiguo/material-iconfont"
+    "url": "https://github.com/luhuiguo/material-iconfont.git"
   },
   "keywords": [
     "icons",
